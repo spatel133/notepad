@@ -1,0 +1,11 @@
+README
+
+
+Hello,
+
+
+I am trying to create a mini GUI application that has 1 button labeled “notepad” which launches a notepad application. In the GUI i also plan to put a current time the interface. I have 2 .java files. First one is labeled “FinalProject.java” which is the current code of the GUI i made. When i go to click the notepad button it does not launch the notepad application that i made. The notepad application is called “notepad.java”.  i do not know why its not launching the notepad application.
+
+
+Thank you
+
